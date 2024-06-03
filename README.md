@@ -1,4 +1,4 @@
-Hi 👋 My name is Anastasiia Zakharova
+Hi 👋 My name is Anastasiia
 =====================================
 
 Web Developer
